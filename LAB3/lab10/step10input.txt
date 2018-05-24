@@ -1,0 +1,5 @@
+account
+Jane Simms,s 500.00 i 0.05,c 200.00 o 400.00;
+Owen Bryant,c 200.00;
+Tim Soley,s 1500.00 i 0.05,c 200.00;
+Maria Soley,s 150.00 i 0.05,c share Tim Soley;

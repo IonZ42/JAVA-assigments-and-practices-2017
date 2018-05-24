@@ -1,0 +1,7 @@
+time long 4
+className String 20
+id int 4
+operation String 8
+amount double 8
+isOK boolean 1
+description String 20

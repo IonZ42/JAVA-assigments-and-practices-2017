@@ -1,0 +1,9 @@
+account
+Jane Simms,c 200 o 500;
+Owen Bryant,c 200;
+Tim Soley,s 200 i 0.05;
+
+transaction
+Jane Simms,w 150.00,d 22.50,w 147.62,w 470.00;
+Owen Bryant,w 100.00,d 25.00,w 175.00;
+Tim Soley,w 100.00,d 25.00,w 175.00;

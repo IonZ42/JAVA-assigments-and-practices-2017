@@ -1,0 +1,3 @@
+firstName String 64
+lastName String 64
+customerID int 4

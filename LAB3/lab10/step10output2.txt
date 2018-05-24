@@ -1,0 +1,13 @@
+                 SEARCH BALANCE REPORT                
+                 =====================                
+                 limit balance :200.0                
+
+Customer: Simms, Jane
+     Checking account : current balance is 200.0
+     Savings account : current balance is 500.0
+
+
+Customer: Soley, Tim
+     Checking account : current balance is 200.0
+     Savings account : current balance is 1500.0
+

@@ -1,0 +1,28 @@
+【练习3】
+初始状态：没有测试数据（Exercise17_03.dat），没有结果文件，需运行run.bat生成结果
+run.bat的内容：无args输入（根据课本题干，访问Exercise17_03.dat为名的文件的数据）
+源程序内写了一个无Exercise17_03.dat时生成的测试数据，为12345，-12345，0，6，cmd输出结果应为6
+如果自动生成了上述dat后，想替换数据，直接替换dat文件即可，之后运行run.bat查看结果。
+
+【练习10】
+初始状态：有测试数据（Exercise17_10.class），没有结果文件，需运行run.bat生成结果
+run.bat的内容：java Exercise17_10 Exercise17_10.class 5
+源程序内没有硬编码，如想替换数据，不用我写的bat，在命令行里自行输入args即可。
+
+【练习12】
+初始状态：有测试数据（Exercise17_10.class.1-5），没有结果文件，需运行run.bat生成结果
+run.bat的内容：
+java Exercise17_12 Exercise17_10.class.1 Exercise17_10.class.2 Exercise17_10.class.3 Exercise17_10.class.4 Exercise17_10.class.5 Exercise17_10.class
+源程序内没有硬编码，如想替换数据，不用我写的bat，在命令行里自行输入args即可。
+
+【练习14】
+初始状态：有测试数据（Exercise17_14.class），有结果文件（Exercise17_14.class.java）
+run.bat的内容：无args输入（根据课本题干，由用户自行输入in/out文件路径，为方便检查保留了编写时的测试结果）
+源程序内没有硬编码，如想替换数据，在run.bat运行界面里自行输入in/out文件路径即可。
+
+【练习15】
+初始状态：有测试数据（Exercise17_14.class.java），有结果文件（Exercise17_14.class）
+run.bat的内容：无args输入（根据课本题干，由用户自行输入in/out文件路径，为方便检查保留了编写时的测试结果）
+源程序内没有硬编码，如想替换数据，在run.bat运行界面里自行输入in/out文件路径即可。
+
+By 软件二班 魏芸

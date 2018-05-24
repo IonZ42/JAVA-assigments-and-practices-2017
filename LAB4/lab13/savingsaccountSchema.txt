@@ -1,0 +1,4 @@
+customerID int 4
+balance double 8
+accountID int 4
+interestRate double 8

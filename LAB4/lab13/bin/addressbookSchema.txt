@@ -1,0 +1,5 @@
+name String 64
+street String 64
+city String 40
+state String 4
+zip String 10

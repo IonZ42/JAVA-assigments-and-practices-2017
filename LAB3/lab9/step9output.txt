@@ -1,0 +1,29 @@
+Creating the customer Jane Simms .
+Creating a Checking Account with a 200.0 balance and 500.0 overdraft protection.
+Creating the customer Owen Bryant .
+Creating a Checking Account with a 200.0 balance and no overdraft protection.
+Creating the customer Tim Soley .
+Creating a Savings Account with a 200.0 balance and 5.0% interest.
+
+Customer [Simms, Jane] has a checking balance of 200.0 with a 500.0 overdraft protection.
+Checking Acct [Jane Simms] : withdraw 150.0
+Checking Acct [Jane Simms] : deposit 22.5
+Checking Acct [Jane Simms] : withdraw 147.62
+Checking Acct [Jane Simms] : withdraw 470.0
+Exception: Insufficient funds for overdraft protection   Deficit: 470.0
+Cusotmer [Simms, Jane] has a checking balance of 0.0
+
+Customer [Bryant, Owen] has a checking balance of 200.0 with a 0.0 overdraft protection.
+Checking Acct [Owen Bryant] : withdraw 100.0
+Checking Acct [Owen Bryant] : deposit 25.0
+Checking Acct [Owen Bryant] : withdraw 175.0
+Exception: No overdraft protection   Deficit: 175.0
+Cusotmer [Bryant, Owen] has a checking balance of 125.0
+
+Customer [Soley, Tim] has a savings balance of 200.0 with a 5.0% interest rate.
+BBBSavings Acct [Tim Soley] : withdraw 100.0
+AAASavings Acct [Tim Soley] : deposit 25.0
+BBBSavings Acct [Tim Soley] : withdraw 175.0
+
+Exception: No overdraft protection   Deficit: 175.0
+Cusotmer [Soley, Tim] has a savings balance of 125.0

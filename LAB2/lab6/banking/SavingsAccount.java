@@ -1,0 +1,16 @@
+package banking;
+
+import banking.Account;
+
+public class SavingsAccount extends Account{
+	private double interestRate;//百分数，显示时*100
+
+	public SavingsAccount(){super(0);interestRate=0;}
+	public SavingsAccount(double balance,double i_rate)
+	{super(balance);interestRate=i_rate;
+	System.out.println("Creating a Savings Account with a "
+	+ balance+ " balance and " +i_rate*100 + "% interest.");
+	}
+	@Override
+	public boolean deposit(double amt) {super.deposit(amt);return true;}
+}

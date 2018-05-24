@@ -1,0 +1,18 @@
+                 COSTOMERS REPORT                
+                 ================                
+
+Customer: Simms, Jane
+     Checking account : current balance is 200.0
+     Savings account : current balance is 500.0
+
+Customer: Bryant, Owen
+     Checking account : current balance is 200.0
+     Savings account : current balance is 0.0
+
+Customer: Soley, Tim
+     Checking account : current balance is 200.0
+     Savings account : current balance is 1500.0
+
+Customer: Soley, Maria
+     Checking account : current balance is 200.0
+     Savings account : current balance is 150.0

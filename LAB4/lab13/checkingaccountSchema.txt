@@ -1,0 +1,5 @@
+customerID int 4
+balance double 8
+accountID int 4
+overdraftProtection double 8
+isProtected boolean 1
